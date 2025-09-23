@@ -1,0 +1,3 @@
+LABEL,CODOP,OPERAND
+LABE1,op.Code,$ffFF
+,Op.Code,%d

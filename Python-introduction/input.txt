@@ -1,0 +1,5 @@
+;comment
+            
+LABE1 op.Code $ffFF
+
+ Op.Code %d
